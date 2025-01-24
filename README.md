@@ -1,16 +1,10 @@
 # counter_theme_bloc
 
-A new Flutter project.
+Simple counter Flutter application using of BLoc and applying on dark and light mode
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Counter**: Increment a counter with a button press.
+- **State Management**: Flutter Bloc to manage state changes and react to these changes in the UI.
+- **Theme change**: Switch between light and dark themes using an app bar icon.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
